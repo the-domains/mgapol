@@ -1,4 +1,3 @@
-layout_spectrum: 0.8972925911657512
 typography_spectrum: 0.035323570715263486
 color:
   brandStrength: 0.8652075014542788
@@ -11,5 +10,7 @@ color:
     - '#7193B8'
     - '#CFCECA'
     - '#F2EDCD'
+layout_spectrum: 0.8972925911657512
 name: Mégapol
+title: Mégapol
 description: Public and private works in the megalopolis
